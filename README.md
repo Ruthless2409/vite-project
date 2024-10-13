@@ -8,9 +8,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 steps to run/create vit
+
 npm create vite@latest folder-name
+
 select react/js
+
 cd folder-name
+
 npm install
+
 npm run dev
+
 open local host mentioned
